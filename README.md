@@ -16,7 +16,7 @@ Currently, my focus is on backend solutions.
 ### Let's get connected 🙂:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-travassos/)
 
-### 🛠️ Technologies e Tools I use:
+### 🛠️ Technologies and Tools I use:
 <div>
   <img align="center" alt="VitorPantoja-html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg">
   <img align="center" alt="VitorPantoja-html" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
