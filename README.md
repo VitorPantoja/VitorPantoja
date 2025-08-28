@@ -6,7 +6,7 @@ Fullstack Developer
 
 Undergraduate student in Information Systems.
 
-Currently, my focus is on backend solutions.
+Currently, my focus is on fullstack solutions.
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorPantoja&show_icons=true&theme=dracula"/>
