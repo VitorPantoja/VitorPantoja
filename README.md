@@ -8,10 +8,10 @@ Undergraduate student in Information Systems.
 
 Currently, my focus is on fullstack solutions.
 
-<div>
+<!-- <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorPantoja&show_icons=true&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorPantoja&layout=compact&theme=dracula"/>
-</div>
+</div> -->
 
 ### Let's get connected 🙂:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-travassos/)
